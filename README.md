@@ -22,7 +22,7 @@ The HQ and branch routers are connected directly (Gig0/1 to Gig0/1).
 
 ## Topology
 
-![Network Topology](topology.png)
+![Network Topology](sky_line_network.png)
 
 ## Addressing Plan
 
